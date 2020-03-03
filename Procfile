@@ -1,1 +1,1 @@
-web: npm start serve --port process.env.PORT
+web: npm serve --port process.env.PORT
