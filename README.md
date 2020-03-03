@@ -3,6 +3,8 @@
 The app is called Simple Sticky Note. It lets you add notes to the page and saves all of these to <strong>local storage</strong>.
 
 Screenshots:
+
+
 ![](js_stickynote01.png)
 ![](js_stickynote02.png)
 
