@@ -3,8 +3,8 @@
 The app is called Simple Sticky Note. It lets you add notes to the page and saves all of these to <strong>local storage</strong>.
 
 Screenshots:
-![](js_stickynotejs_stickynote01.png)
-![](js_stickynotejs_stickynote02.png)
+![](js_stickynote01.png)
+![](js_stickynote02.png)
 
 This repo contains the initial and final code for the [Building your first ES2015 app](http://www.code-labs.io/codelabs/chrome-es2015) codelab. (Not published yet! Working on it!)
 
