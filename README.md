@@ -3,6 +3,11 @@
 The app is called Simple Sticky Note. It lets you add notes to the page and saves all of these to <strong>local storage</strong>.
 
 * <strong>Procfile</strong> is created to deploy to Heroku.
+* To run locally, please run the following commands: 
+
+<code> git clone https://github.com/cathyli99/JS_StickyNotes.git 
+  
+  npm start  </code>
 
 Screenshots:
 
