@@ -6,7 +6,7 @@ The app is called Simple Sticky Note. It lets you add notes to the page and save
 * To run this app locally, please run the following commands in your terminal window: 
 
 <code> 
-  git clone https://github.com/cathyli99/JS_StickyNotes.git 
+  git clone https://github.com/cathyli99/JS_StickyNotes.git <br>
   npm start  
 </code>
 
