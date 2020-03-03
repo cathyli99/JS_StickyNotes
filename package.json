@@ -8,7 +8,7 @@
     "serve": "^1.4.0"
   },
   "scripts": {
-    "start": "babel --presets es2015 scripts/main.es6.js -o scripts/main.es5.js -s true -w & serve --port process.env.PORT",
+    "start": "serve --port 52587",
     "build": "babel --presets es2015 scripts/main.es6.js -o scripts/main.es5.js -s true"
   },
   "dependencies": {
