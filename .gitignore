@@ -1,1 +1,4 @@
 node_modules
+/scripts/main.es6_FINAL.js
+/scripts/main.es5.js
+/scripts/main.es5.js.map
