@@ -5,7 +5,7 @@
   "author": "Cathy Li",
   "repository": "googlecodelabs/chrome-es2015",
   "devDependencies": {
-    "serve": "^1.4.0"
+    "serve": "^10.1.2"
   },
   "scripts": {
     "start": "serve --port 52587",
